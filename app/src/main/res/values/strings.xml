@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IMC</string>
+
+    <string name="imc_result">O valor do IMC é: </string>
+</resources>
